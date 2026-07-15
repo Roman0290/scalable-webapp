@@ -4,6 +4,7 @@ frontend/.next/
 backend/tmp/
 backend/*.exe
 
+node_modules/
 .env
 .env.*
 
